@@ -1,0 +1,5 @@
+Copyright Ivan Ramos Pagnossin and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/dh-mumuki/mumuki-guia-python3-ds-br-assessment-statistics and the AUTHORS.txt file.
