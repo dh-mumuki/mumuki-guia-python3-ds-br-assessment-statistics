@@ -1,1 +1,1 @@
-Desafio de Estatística e probabilidade para o curso de Data Science.
+Desafio de Python para o curso de Data Science.
