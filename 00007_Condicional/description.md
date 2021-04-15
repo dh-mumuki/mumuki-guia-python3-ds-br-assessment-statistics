@@ -1,0 +1,1 @@
+Implemente a função `condicional`, que recebe como parâmetro um número. A função deve comparar o argumento com 17. Se o argumento for menor, a função deve retornar o módulo da diferença entre o argumento e 17; se for maior, deve retornar o quadrado dessa diferença.

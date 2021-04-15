@@ -1,0 +1,2 @@
+- Utilize a função `abs`.
+- 2**3 = 8 em Python.
