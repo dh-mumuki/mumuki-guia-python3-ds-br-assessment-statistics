@@ -1,0 +1,1 @@
+Selecione as expressões abaixo que resultam `True` quando avaliadas pelo Python. Responda sem apelar para o terminal do Python!
