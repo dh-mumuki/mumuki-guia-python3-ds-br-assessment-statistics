@@ -1,0 +1,1 @@
+def soma_int(lista):
