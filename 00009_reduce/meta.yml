@@ -1,0 +1,14 @@
+---
+locale: pt
+tags:
+- list
+- reduce
+- function-definition
+layout: input_right
+editor: code
+type: problem
+extra_visible: false
+teacher_info: ''
+manual_evaluation: false
+choices: []
+name: reduce
