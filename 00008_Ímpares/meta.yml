@@ -1,0 +1,12 @@
+---
+locale: pt
+tags:
+- List-comprehension
+layout: input_right
+editor: code
+type: problem
+extra_visible: false
+teacher_info: ''
+manual_evaluation: false
+choices: []
+name: Ímpares
