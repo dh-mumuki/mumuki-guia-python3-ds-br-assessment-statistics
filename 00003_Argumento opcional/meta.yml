@@ -1,6 +1,8 @@
 ---
 locale: pt
-tags: []
+tags:
+- optional-argument
+- default-argument
 layout: input_right
 editor: code
 type: problem
@@ -8,4 +10,4 @@ extra_visible: false
 teacher_info: ''
 manual_evaluation: false
 choices: []
-name: Função com argumento opcional
+name: Argumento opcional
