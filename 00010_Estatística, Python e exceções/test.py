@@ -9,5 +9,5 @@ class Test(unittest.TestCase):
   
   def test_dado_de_20_faces(self):
     n = 20
-    pmf = zip(range(1, n+1), [1/n] * n)
+    pmf = zip(range(1, n+1), [round(1/n, 2)] * n)
     self.assertEqual(expectativa)
