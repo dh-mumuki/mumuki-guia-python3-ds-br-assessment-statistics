@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "[1, 5, 7] == [1, 7, 5]"
   checked: false
-name: 'Python: expressões booleanas'
+name: Expressões booleanas
