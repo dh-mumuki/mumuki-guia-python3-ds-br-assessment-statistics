@@ -1,6 +1,7 @@
 ---
 locale: pt
-tags: []
+tags:
+- functional-programming
 layout: input_right
 editor: code
 type: problem
