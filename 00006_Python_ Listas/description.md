@@ -3,7 +3,8 @@ Dada uma lista com variáveis de variados tipos (inteiros, strings, float, etc),
 Exemplo:
 
 ```python
-lista = [1, 2, 3, 4, 'string', 'aluno', 4.2, 5, 96374849, True]
-```
+>>> lista = [1, 2, 3, 4, 'string', 'aluno', 4.2, 5, 96374849, True]
+>>> soma_int(lista)
+96374865
 
-`soma_int(lista)` deve retornar 96374865
+```
