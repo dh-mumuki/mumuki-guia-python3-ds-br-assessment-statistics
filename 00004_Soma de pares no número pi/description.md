@@ -8,6 +8,11 @@ Sua tarefa é implementar a função `soma_pares_em_pi`. Ela recebe como argumen
 
 Exemplos:
 
-* `soma_pares_em_pi(1)` deve ser retornar 4 (veja `pi` acima).
-* `soma_pares_em_pi(2)` deve ser retornar 6.
-* `soma_pares_em_pi(3)` deve ser retornar 12.
+```python
+>>> soma_pares_em_pi(1)
+4
+>>> soma_pares_em_pi(2) 
+6
+>>> soma_pares_em_pi(3)
+12
+```
