@@ -5,6 +5,6 @@ Exemplo:
 ```python
 >>> lista = [1, 2, 3, 4, 'string', 'aluno', 4.2, 5, 96374849, True]
 >>> soma_int(lista)
-96374865
+96374864
 
 ```
