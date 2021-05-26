@@ -16,3 +16,5 @@ Exemplos:
 >>> soma_pares_em_pi(3)
 12
 ```
+
+A variável `pi` já foi criada. Redeclará-la prejudicaria a sua performance na busca pelo resultado correto.
