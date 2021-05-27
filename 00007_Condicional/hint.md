@@ -1,2 +1,4 @@
-- Utilize a função `abs`.
 - 2**3 = 8 em Python.
+- A função pow() pode te ajudar.
+- Não utilize a função abs().
+- Se o argumento for menor, deve estar na direita.
