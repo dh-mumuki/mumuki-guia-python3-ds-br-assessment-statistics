@@ -10,8 +10,8 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Estrutura do loop "while" não é adequada para o problema
-  checked: false
+  value: Estrutura do loop "while" não é a mais adequada para o problema
+  checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Existe um problema nos sinais de igualdade do loop while
   checked: true
