@@ -1,4 +1,5 @@
-- 2**3 = 8 em Python.
+- 2**3 = 8 em Python. Ou seja, para elevar uma número use dois asteríscos
 - A função pow() pode te ajudar.
 - Não utilize a função abs().
 - Se o argumento for menor, deve estar na direita.
+- Não utilize o print em nenhuma das suas soluções, inclusive essa.
